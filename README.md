@@ -3,15 +3,6 @@
 
 This project focuses on extracting, cleaning, and analyzing data from the 1mg homeopathic medicine website. By utilizing web scraping techniques, we aim to gather detailed information about various homeopathic medicines available on the platform. The project includes several key stages: web scraping, data cleaning, data analysis using SQL/NoSQL, and visualization. Additionally, insights are presented through a PowerPoint presentation and an interactive dashboard.
 
-
-## Authors
-
-- [Surya Prakash Manubolu](https://github.com/suryaprakash-sp)
-- [Ghanshyam Jadhav](https://github.com/ghanshyamjadhav2125)
-- [Sofi Altamsh](https://github.com/sofialtamsh)
-- [Gayatri Tumsare](https://github.com/gayu47)
-- [Hashir Sheikh](https://github.com/hashir-sheikh-da)
-
 ## Key Objectives:
 - Web Scraping: Automate the extraction of relevant data from the 1mg website.
 - Data Cleaning: Ensure the data is accurate and consistent for analysis.
