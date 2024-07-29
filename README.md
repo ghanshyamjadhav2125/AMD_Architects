@@ -287,7 +287,7 @@ To make our analysis accessible and user-friendly, we created an interactive das
 Here is a screenshot of the dashboard:
 
 
-![Dashboard]()
+![Dashboard](https://github.com/ghanshyamjadhav2125/AMD_Architects/blob/main/Dashboard/Dashboard.png)
 
 
 The dashboard is designed to be an invaluable tool for stakeholders, allowing them to explore the data dynamically and make informed decisions.
