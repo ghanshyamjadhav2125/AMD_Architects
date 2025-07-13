@@ -1,4 +1,4 @@
-
+# E-Pharma Data Trends 
 # 1Mg Homeopathic Medicine Scraping Project
 
 This project focuses on extracting, cleaning, and analyzing data from the 1mg homeopathic medicine website. By utilizing web scraping techniques, we aim to gather detailed information about various homeopathic medicines available on the platform. The project includes several key stages: web scraping, data cleaning, data analysis using SQL/NoSQL, and visualization. Additionally, insights are presented through a PowerPoint presentation and an interactive dashboard.
@@ -10,7 +10,7 @@ This project focuses on extracting, cleaning, and analyzing data from the 1mg ho
 - Visualization: Create an interactive dashboard to visualize the data and highlight key insights.
 - Presentation: Summarize the findings in a PowerPoint presentation for clear communication of results.
 
-## Project Deliverables:
+## Project Deliverables: 
 - Web Scraping Code: Python scripts using Selenium to scrape data from the 1mg website.
 - Cleaned Data: A cleaned dataset saved in CSV format.
 - SQL/NoSQL Queries: SQL/NoSQL scripts to analyze the cleaned data and generate insights.
